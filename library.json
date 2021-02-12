@@ -1,0 +1,14 @@
+{
+    "name": "geograv",
+    "version": "0.0.1",
+    "license": "MIT",
+    "build": {
+        "includeDir": "include",
+	"srcDir": "src",
+        "libArchive": false
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pathfinder-for-autonomous-navigation/geograv"
+    }
+}
